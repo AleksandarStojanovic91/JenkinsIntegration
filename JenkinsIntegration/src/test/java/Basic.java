@@ -22,5 +22,6 @@ public class Basic {
     public void afterTest() {
         driver.quit();
         //edit
+        //novi komentar
     }
 }
